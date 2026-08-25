@@ -25,6 +25,6 @@
 defined('MOODLE_INTERNAL') || die();
 
 $plugin->component = 'tiny_accordion';
-$plugin->version = 2026031801;
+$plugin->version = 2026082500;
 $plugin->requires = 2024100100;
-$plugin->supported = [405, 405];
+$plugin->supported = [405, 501];
